@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 65bcd869f6ba2ba4bb28366f445491c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _PuffParticleSystem: {fileID: 5324744211476284335, guid: 025f48c471449cc47b0632dd7450a951,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
